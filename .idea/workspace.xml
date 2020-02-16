@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1223216-1029-4fc1-b1dc-ee59cbf047e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HTML5 QUIZ APP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/quiz.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/quiz.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            <state relative-caret-position="413">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="e#728#732#1" expanded="true" />
                 <element signature="e#736#740#0" expanded="true" />
@@ -38,6 +32,22 @@
                 <element signature="e#898#902#0" expanded="true" />
                 <element signature="e#971#975#0" expanded="true" />
                 <element signature="e#979#983#0" expanded="true" />
+                <element signature="e#1903#1907#0" expanded="true" />
+                <element signature="e#1911#1915#0" expanded="true" />
+                <element signature="e#1984#1988#0" expanded="true" />
+                <element signature="e#1994#1998#0" expanded="true" />
+                <element signature="e#2067#2071#0" expanded="true" />
+                <element signature="e#2078#2082#0" expanded="true" />
+                <element signature="e#2151#2155#0" expanded="true" />
+                <element signature="e#2159#2163#0" expanded="true" />
+                <element signature="e#2490#2494#0" expanded="true" />
+                <element signature="e#2498#2502#0" expanded="true" />
+                <element signature="e#2571#2575#0" expanded="true" />
+                <element signature="e#2581#2585#0" expanded="true" />
+                <element signature="e#2654#2658#0" expanded="true" />
+                <element signature="e#2665#2669#0" expanded="true" />
+                <element signature="e#2738#2742#0" expanded="true" />
+                <element signature="e#2746#2750#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,7 +55,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/quiz.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -62,6 +76,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/quiz.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -124,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581850053169</updated>
-      <workItem from="1581850054795" duration="747000" />
+      <workItem from="1581850054795" duration="1981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="747000" />
+    <option name="totallyTimeSpent" value="1981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1165" height="741" extended-state="6" />
@@ -164,12 +179,16 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/js/quiz.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        <state relative-caret-position="413">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
           <folding>
             <element signature="e#728#732#1" expanded="true" />
             <element signature="e#736#740#0" expanded="true" />
@@ -179,6 +198,22 @@
             <element signature="e#898#902#0" expanded="true" />
             <element signature="e#971#975#0" expanded="true" />
             <element signature="e#979#983#0" expanded="true" />
+            <element signature="e#1903#1907#0" expanded="true" />
+            <element signature="e#1911#1915#0" expanded="true" />
+            <element signature="e#1984#1988#0" expanded="true" />
+            <element signature="e#1994#1998#0" expanded="true" />
+            <element signature="e#2067#2071#0" expanded="true" />
+            <element signature="e#2078#2082#0" expanded="true" />
+            <element signature="e#2151#2155#0" expanded="true" />
+            <element signature="e#2159#2163#0" expanded="true" />
+            <element signature="e#2490#2494#0" expanded="true" />
+            <element signature="e#2498#2502#0" expanded="true" />
+            <element signature="e#2571#2575#0" expanded="true" />
+            <element signature="e#2581#2585#0" expanded="true" />
+            <element signature="e#2654#2658#0" expanded="true" />
+            <element signature="e#2665#2669#0" expanded="true" />
+            <element signature="e#2738#2742#0" expanded="true" />
+            <element signature="e#2746#2750#0" expanded="true" />
           </folding>
         </state>
       </provider>
