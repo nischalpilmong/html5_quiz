@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1223216-1029-4fc1-b1dc-ee59cbf047e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/quiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/quiz.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,38 +17,12 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1088">
               <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
-              <folding>
-                <element signature="e#728#732#1" expanded="true" />
-                <element signature="e#736#740#0" expanded="true" />
-                <element signature="e#809#813#0" expanded="true" />
-                <element signature="e#817#821#0" expanded="true" />
-                <element signature="e#890#894#0" expanded="true" />
-                <element signature="e#898#902#0" expanded="true" />
-                <element signature="e#971#975#0" expanded="true" />
-                <element signature="e#979#983#0" expanded="true" />
-                <element signature="e#1903#1907#0" expanded="true" />
-                <element signature="e#1911#1915#0" expanded="true" />
-                <element signature="e#1984#1988#0" expanded="true" />
-                <element signature="e#1994#1998#0" expanded="true" />
-                <element signature="e#2067#2071#0" expanded="true" />
-                <element signature="e#2078#2082#0" expanded="true" />
-                <element signature="e#2151#2155#0" expanded="true" />
-                <element signature="e#2159#2163#0" expanded="true" />
-                <element signature="e#2490#2494#0" expanded="true" />
-                <element signature="e#2498#2502#0" expanded="true" />
-                <element signature="e#2571#2575#0" expanded="true" />
-                <element signature="e#2581#2585#0" expanded="true" />
-                <element signature="e#2654#2658#0" expanded="true" />
-                <element signature="e#2665#2669#0" expanded="true" />
-                <element signature="e#2738#2742#0" expanded="true" />
-                <element signature="e#2746#2750#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -58,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/quiz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="529">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -87,10 +59,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2042" />
-    <option name="width" value="628" />
-    <option name="height" value="943" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2040" />
+    <option name="width" value="630" />
+    <option name="height" value="945" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -150,25 +122,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581850053169</updated>
-      <workItem from="1581850054795" duration="7078000" />
+      <workItem from="1581850054795" duration="8859000" />
+      <workItem from="1581947336879" duration="2901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7078000" />
+    <option name="totallyTimeSpent" value="11760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1165" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24932249" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -176,10 +144,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,39 +170,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
-          <folding>
-            <element signature="e#728#732#1" expanded="true" />
-            <element signature="e#736#740#0" expanded="true" />
-            <element signature="e#809#813#0" expanded="true" />
-            <element signature="e#817#821#0" expanded="true" />
-            <element signature="e#890#894#0" expanded="true" />
-            <element signature="e#898#902#0" expanded="true" />
-            <element signature="e#971#975#0" expanded="true" />
-            <element signature="e#979#983#0" expanded="true" />
-            <element signature="e#1903#1907#0" expanded="true" />
-            <element signature="e#1911#1915#0" expanded="true" />
-            <element signature="e#1984#1988#0" expanded="true" />
-            <element signature="e#1994#1998#0" expanded="true" />
-            <element signature="e#2067#2071#0" expanded="true" />
-            <element signature="e#2078#2082#0" expanded="true" />
-            <element signature="e#2151#2155#0" expanded="true" />
-            <element signature="e#2159#2163#0" expanded="true" />
-            <element signature="e#2490#2494#0" expanded="true" />
-            <element signature="e#2498#2502#0" expanded="true" />
-            <element signature="e#2571#2575#0" expanded="true" />
-            <element signature="e#2581#2585#0" expanded="true" />
-            <element signature="e#2654#2658#0" expanded="true" />
-            <element signature="e#2665#2669#0" expanded="true" />
-            <element signature="e#2738#2742#0" expanded="true" />
-            <element signature="e#2746#2750#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/quiz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="529">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
         </state>
       </provider>
     </entry>

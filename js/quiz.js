@@ -1,6 +1,6 @@
 var score = 0;//set score to 0
 var total = 5;//Total no. of questions
-var point =1;//points per correct answer
+var point = 2;//points per correct answer
 var highest = total * point;
 
 //Initializer
@@ -20,32 +20,40 @@ $(document).ready(function(){
    //Show first Question
     $('#q1').show();
 
-    $('#q1 #submit').click(function () {
+    $('.question-form #submit').click(function(){
+       //Get data attributes
+       current = $(this).parents('form:first').data('question');
+       next = $(this).parents('form:first').data('question') + 1;
+       //Hide all questions
         $('.question-form').hide();
-        $('#q2').fadeIn(300);
-        return false;
-    });
-    $('#q2 #submit').click(function () {
-        $('.question-form').hide();
-        $('#q3').fadeIn(300);
-        return false;
-    });
-    $('#q3 #submit').click(function () {
-        $('.question-form').hide();
-        $('#q4').fadeIn(300);
-        return false;
-    });
-    $('#q4 #submit').click(function () {
-        $('.question-form').hide();
-        $('#q5').fadeIn(300);
-        return false;
-    });
-    $('#q5 #submit').click(function () {
-        $('.question-form').hide();
-        $('#results').fadeIn(300);
+        //Show next question
+        $('#q'+next+'').fadeIn(300);
+        process(''+current+'');
         return false;
     });
 });
+
+//process the answers
+function process(n){
+    //Get input value
+    var submitted = $('input[name=q'+n+']:checked').val();
+    if(submitted == sessionStorage.getItem('a'+n+'')){
+        score = score + point;
+    }
+    if(n == total){
+        $('#results').html('<h3>Your final score is: '+ score + 'out of'+highest+'</h3><a href="index.html">Take Quiz again</a>');
+        if(score == highest){
+            $('#results').append('<p>You are an HTML5 master!');
+        }
+        else if(score == highest - point || score == highest - point - point){
+            $('#results').append('<p>Good Job!');
+
+        }
+    }
+
+    return false;
+}
+
 
 //Add Event Listener
 window.addEventListener('load',init,false);
